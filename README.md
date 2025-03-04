@@ -1,5 +1,5 @@
 Ejercicios de Programacion.
-basado en mis respuestas de la pagina CODESIG.
+basado en mis respuestas de la pagina CODESIGNAL. (https://codesignal.com/)
 
 para probarlos....
 descargar
